@@ -5,4 +5,6 @@ It will compare two comma separeted files using the header as fileds reference. 
 be compared and, if found, differences will be printed out in the format:
 "Line number, Column number and column, Expected: Value (filea) --> Actual: Value (Fileb).
 
+filea.csv and fileb.csv are the two files used as an example (downloaded from internet)
+
 
